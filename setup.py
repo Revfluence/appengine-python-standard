@@ -26,7 +26,7 @@ setuptools.setup(
         "rsa",
         "ruamel.yaml>=0.17.7",
         "six>=1.15.0",
-        "urllib3>=1.26.2,<2",
+        "urllib3>=1.26.2,<3",
         "legacy-cgi>=2.6.2; python_version>='3.10'",
     ],
     classifiers=[
